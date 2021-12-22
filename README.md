@@ -3,4 +3,7 @@
 
 * item1
 * item2
-![ORT](https://user-images.githubusercontent.com/72319985/147132426-61be3101-1749-462f-991c-cd4e19d5261a.PNG)
+
+
+
+![dsc_metu](https://user-images.githubusercontent.com/72319985/147134311-c69c4fd0-dab8-45da-af6b-c27ce88d5b83.png)
