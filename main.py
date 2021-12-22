@@ -1,3 +1,4 @@
+#GDSC
 
 #opencv ye giriş, frame yapısı ve bazı cv2 nesnelerini kullanmak
 import cv2
